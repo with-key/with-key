@@ -1,6 +1,10 @@
 
 # Hi!, there  👋
-### I'm Front-End developer 예상기
+### I'm Front-End developer.
+
+<p herf="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,styledcomponents,redux,nestjs,apollo,graphql,postgres,figma,git,&perline=6"/>
+</p>
 
 ### My favorite techs
 - Javascript(Typescript) + node
