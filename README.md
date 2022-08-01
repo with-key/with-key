@@ -4,7 +4,7 @@
 <br/>
 
 <p herf="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,styledcomponents,redux,nestjs,apollo,graphql,postgres,figma,git,&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nestjs,apollo,graphql,postgres,figma,git,&perline=6"/>
 </p>
 
 ### My favorite techs
