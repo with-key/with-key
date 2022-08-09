@@ -3,8 +3,9 @@
 # Hello!  👋
 <br/>
 
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="66" height="66" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="66" height="66" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="66" height="66" /></div>
 <p herf="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nestjs,apollo,graphql,postgres,figma,git,&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=nextjs,redux,nestjs,apollo,graphql,postgres,figma,git,&perline=4"/>
 </p>
 
 ### My favorite techs
