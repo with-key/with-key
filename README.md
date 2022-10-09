@@ -1,20 +1,26 @@
-<div align="center"> 
+<h1> 
+Hello!  👋
+</h1>  
+<h3 style="text-align: left;">My favorite skills</h3>
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://skillicons.dev/icons?i=js&perline=1"/>
+  <img src="https://skillicons.dev/icons?i=ts&perline=1"/>
+  <img src="https://skillicons.dev/icons?i=nextjs&perline=1"/>
+  <img src="https://skillicons.dev/icons?i=react&perline=1"/>
+  <img src="https://skillicons.dev/icons?i=nestjs&perline=1"/>
+</div>
 
-# Hello!  👋
-<br/>
+<h3 style="text-align: left;">interested in</h3>
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
+</div>
 
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="66" height="66" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="66" height="66" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="66" height="66" /></div>
-<p herf="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,graphql,postgres,nginx,docker,git,figma&perline=4"/>
-</p>
+  
 
-### My favorite techs
-TS, React, Next
 
-### Currently learning
-Nest.js + TypeORM + GraphQL, Apollo client, React v18
 
-### What I am interested in
-RTK query, Svelte
-</div>  
+
+
 
