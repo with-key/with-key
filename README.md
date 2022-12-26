@@ -11,12 +11,6 @@ Hello!  👋
   <img src="https://skillicons.dev/icons?i=postgres&perline=1"/>
 </div>
 
-<h3 style="text-align: left;">interested in</h3>
-<div style="display: flex; align-items: flex-start;">
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
-</div>
 
   
 
