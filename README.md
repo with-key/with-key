@@ -9,6 +9,7 @@ Hello!  👋
   <img src="https://skillicons.dev/icons?i=react&perline=1"/>
   <img src="https://skillicons.dev/icons?i=nestjs&perline=1"/>
   <img src="https://skillicons.dev/icons?i=postgres&perline=1"/>
+    <img src="https://skillicons.dev/icons?i=prisma&perline=1"/>
 </div>
 
 
